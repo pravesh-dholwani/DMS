@@ -40,5 +40,13 @@ Navigate to the **URL of APACHE** usually like **http://localhost:8080/DMS/index
  
  ![Attendance](AttenTeacher.jpg)
  
+ **Announcement Page**  
+ 
+ ![Announce](Announcement.jpg)
+ 
+ **Add Course Page**
+ 
+ ![AddCOurse](AddCourse.jpg)
+ 
  
  
