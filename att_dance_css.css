@@ -1,0 +1,72 @@
+.mystyle input[type="checkbox"]:focus
+{
+	background:transparent;
+	content:'';
+}
+.mystyle input[type="checkbox"]:checked
+{
+	
+		background-color:red;
+	
+}
+.mystyle:hover
+{
+	background-color:red;
+}
+.mystyle label
+{
+	font-size:30px;
+}
+.mystyle
+{
+	
+	width:90px;
+	height:90px;
+	padding:10px;
+	margin:10px;
+	background-color:#2ecc71;
+	column-gap:100px;
+	border-radius:3px solid green;
+}
+.mystyle input[type="checkbox"]
+{
+	display:none;
+	background-color:red;
+	
+}
+body{
+background-color:#657383;
+background-size: cover;
+color:white;
+font-family: sns-serif;
+font-size: 28px;
+letter-spacing: 3px;
+
+}
+select,input[type=text]{
+margin: 10px 15px;
+border: 3px black;
+padding: 14px 10px;
+width: 230px;
+color: black;
+
+}
+input[type="submit"],button
+{
+border:0;
+background: none;
+display: inline;
+margin: 20px auto;
+text-align: center;
+border: 2px solid #2ecc71;
+padding: 14px 40px;
+outline: none;
+color: white;
+border-radius: 25px;
+transition: 0.25s;
+cursor: pointer;
+}
+input[type="submit"]:hover,button:hover
+{
+background: #2ecc71;
+}
